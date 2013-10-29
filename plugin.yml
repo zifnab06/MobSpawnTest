@@ -1,0 +1,10 @@
+name: AdminHunt
+version: ${project.version}
+description: ${project.description}
+database: false
+
+authors: [Tom Powell (zifnab06)]
+website: ${project.url}
+
+main: net.zifnab.MobSpawnTest
+
